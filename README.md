@@ -1,4 +1,4 @@
 # Adventure-Game
 
-WASD - Moving
-Space - Taking items
+*WASD - Moving
+Space - Taking items*
